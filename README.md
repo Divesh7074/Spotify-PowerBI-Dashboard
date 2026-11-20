@@ -71,22 +71,3 @@ KPI Development
 Dashboard Design
 
 Business Intelligence
-
-**Project Files**
-
-Spotify_Dashboard.pbix – Power BI dashboard file.
-
-README.md – Project documentation.
-
-Spotify_Dashboard.png – Dashboard preview.
-
-Dataset – Source data (if shareable).
-
-**Conclusion**
-
-This project demonstrates my practical knowledge of Power BI and data analytics by transforming Spotify streaming data into meaningful business insights through an interactive dashboard.
-
-Project Category: Data Analytics
-Dashboard Tool: Microsoft Power BI
-
-Created by: Divesh Kumar
